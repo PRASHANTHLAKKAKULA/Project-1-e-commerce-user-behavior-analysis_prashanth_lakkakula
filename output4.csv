@@ -1,0 +1,16 @@
+Category,ProductName,TotalRevenue,Price
+"""Books""",Product_5003,55981489.99,1802.12
+"""Books""",Product_5004,55666606.83,1613.74
+"""Books""",Product_5001,55394657.77,156.57
+"""Clothing""",Product_3004,55996349.9,628.35
+"""Clothing""",Product_3005,55790679.44,771.0
+"""Clothing""",Product_3001,55387019.24,175.85
+"""Electronics""",Product_1003,56602954.4,496.13
+"""Electronics""",Product_1001,55913956.71,618.26
+"""Electronics""",Product_1005,55552245.74,512.48
+"""Furniture""",Product_2002,55344538.12,1533.04
+"""Furniture""",Product_2001,55159470.63,1912.39
+"""Furniture""",Product_2004,55008126.2,916.28
+"""Sports""",Product_4003,56270220.39,953.06
+"""Sports""",Product_4002,56087646.87,470.53
+"""Sports""",Product_4004,56050235.54,185.03
